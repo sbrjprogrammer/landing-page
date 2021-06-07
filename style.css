@@ -21,3 +21,21 @@ rgba(0,212,255,1) 100%);
     font-size: 1.25rem;
     color: #fff;
 }
+
+.feature{
+    color: #fff;
+
+}
+
+.feature ul{
+    padding-left: 2rem;
+    list-style-type: none;
+}
+
+.feature ul li {
+    padding-left: 2rem;
+    background-image: url(./img/check.svg);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-top: 1rem;
+}
