@@ -39,3 +39,17 @@ rgba(0,212,255,1) 100%);
     line-height: 1.5rem;
     margin-top: 1rem;
 }
+
+.icon{
+    color: #fff;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.7rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+
+    
+}
