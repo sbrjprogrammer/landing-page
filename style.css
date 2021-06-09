@@ -53,3 +53,32 @@ rgba(0,212,255,1) 100%);
 
     
 }
+
+
+.gallery{
+    background-color: whitesmoke;
+}
+
+
+.gallery img{
+    border-radius: 5%;
+}
+
+.services{
+    color: #fff;
+
+}
+
+
+
+footer{
+    color: #fff;
+    font-size: 1rem;
+    padding: 1rem;
+    margin: 0;
+
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
